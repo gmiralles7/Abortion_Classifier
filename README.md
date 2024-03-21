@@ -1,1 +1,5 @@
 # Abortion_Classifier
+
+
+In this paper, we explore the "Adding it Up" All Women Dataset from the Guttmacher Institute. This dataset provides statistics on a variety of factors relating to women's reproductive health, including abortion rates, healthcare costs, and more. It includes statistics for over 100 countries. This report explores a subset of the dataset's features. In addition, 2 machine learning models, Logistic Regression and Neural Networks, were created to predictively classify a country's continent based on its reproductive health statistics.  We see that both models have difficulty predicting countries that belong to Oceania and hypothesize that this is due to a limit of data within this region. We also observe that the models are weaker when predicting the continent of Asian countries and speculate that this is due to substantial variation in features among countries in Asia. We conclude that both multi-class classification models perform similarly and both have an average accuracy above 85\%.
+
